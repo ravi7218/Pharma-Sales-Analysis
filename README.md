@@ -9,13 +9,13 @@ This project involved the analysis of extensive sales data across four years, fo
 ### Project View
 Here are some visual representations of the data and findings:
 
-![Sales Overview](C:\Mentorship Program\Pharm sales analysis\Screenshots\Screenshot (363).png)
+<img src="Images/img1.png" width="650" height="400">
 
-![Top Products](screenshots/top_products.png)
+<img src="Images/img2.png" width="650" height="400">
 
-![Team Contributions](screenshots/team_contributions.png)
+<img src="Images/img3.png" width="650" height="400">
 
-![Yearly Sales Comparison](screenshots/yearly_sales_comparison.png)
+<img src="Images/img4.png" width="650" height="400">
 
 
 ## Findings
